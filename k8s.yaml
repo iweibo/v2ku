@@ -5,8 +5,8 @@ metadata:
 spec:
   replicas: 1
   selector:
-  matchLables:
-   app: elecv2
+   matchLables:
+    app: elecv2
   template:
     metadata:
       labels:
